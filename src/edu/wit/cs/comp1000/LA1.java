@@ -30,7 +30,6 @@ public class LA1 {
 		System.out.println("Sum: " + sum);
 		System.out.println("Mean: " + avg);
 		System.out.printf("population Standard Deviation: %.2f", sd);
-
 	}
 
 }
